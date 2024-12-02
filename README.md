@@ -2,17 +2,47 @@
 
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-<p align="justify"> 
+<p align="center"> 
 Welcome to my repository! 
-Here, you will find my best works, creativity, and expertise in this field. 
-Explore, enjoy, and feel free to contact me if you are interested in collaborating or want to know more. 
-Thanks for visiting!
+<br>Here, you will find my best works, creativity, and expertise in this field. 
+<br>Explore, enjoy, and feel free to contact me if you are interested in collaborating or want to know more. 
+<br>Thanks for visiting!
 <br>
 <br>
 Selamat datang di repositori saya! 
 <br>Di sini, Anda akan menemukan karya-karya terbaik, kreativitas, dan keahlian saya di bidang ini. 
 <br>Jelajahi, nikmati, dan jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau ingin mengetahui lebih lanjut. <br>Terima kasih telah berkunjung!
 </p>
+
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+</style>
+</head>
+<body>
+
+<h2>Card</h2>
+
+<div class="card">
+  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+
+</body>
           
 <p align="center"><a href="https://github.com/dwidhanis">  
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwidhanis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
