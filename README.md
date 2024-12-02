@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-<p align="center"> 
+<p align="justify"> 
 Welcome to my repository! 
-<br>Here, you will find my best works, creativity, and expertise in this field. 
-<br>Explore, enjoy, and feel free to contact me if you are interested in collaborating or want to know more. 
-<br>Thanks for visiting!
+Here, you will find my best works, creativity, and expertise in this field. 
+Explore, enjoy, and feel free to contact me if you are interested in collaborating or want to know more. 
+Thanks for visiting!
 <br>
 <br>
 Selamat datang di repositori saya! 
