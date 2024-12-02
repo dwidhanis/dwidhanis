@@ -3,8 +3,14 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center"> 
+Welcome to my repository! 
+<br>Here, you will find my best works, creativity, and expertise in this field. 
+<br>Explore, enjoy, and feel free to contact me if you are interested in collaborating or want to know more. 
+<br>Thanks for visiting!
+<br>
+<br>
 Selamat datang di repositori saya! 
-<br>Di sini, Anda akan menemukan karya-karya terbaik yang mencerminkan dedikasi, kreativitas, dan keahlian saya di bidang ini. 
+<br>Di sini, Anda akan menemukan karya-karya terbaik, kreativitas, dan keahlian saya di bidang ini. 
 <br>Jelajahi, nikmati, dan jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau ingin mengetahui lebih lanjut. <br>Terima kasih telah berkunjung!
 </p>
           
