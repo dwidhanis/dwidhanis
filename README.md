@@ -20,7 +20,7 @@
 
 <a href="https://linkedin.com/dhanis-dwi-prasetyo" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=106407&format=png&color=000000" alt="dwidhanis" height="30" width="40" />
-</a>
+</a> 
 
 <a href="https://dhanessa.com" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" alt="dwidhanis" height="30" width="40" />
