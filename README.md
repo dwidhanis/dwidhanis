@@ -16,15 +16,15 @@
 <p align="center">
           
 <a href="https://instagram.com/dwidhanis" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwidhanis" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwidhanis" height="40" width="40" />
 </a>
 
 <a href="https://linkedin.com/dhanis-dwi-prasetyo" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="dwidhanis" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="dwidhanis" height="40" width="40" />
 </a> 
 
 <a href="https://dhanessa.com" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" alt="dwidhanis" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" alt="dwidhanis" height="40" width="40" />
 </a>
   
 </p>
