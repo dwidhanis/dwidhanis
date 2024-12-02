@@ -2,9 +2,10 @@
 
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-<p align="center"> Halo semua! Perkenalkan nama saya Dhanis Dwi Prasetyo
-<br>Saya seorang Fullstack Developer
-<br>Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.linkedin.com/in/dwidhanis/">[Linkedin] ku ya. 
+<p align="center"> 
+Selamat datang di repositori saya! 
+<br>Di sini, Anda akan menemukan karya-karya terbaik yang mencerminkan dedikasi, kreativitas, dan keahlian saya di bidang ini. 
+<br>Jelajahi, nikmati, dan jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau ingin mengetahui lebih lanjut. <br>Terima kasih telah berkunjung!
 </p>
           
 <p align="center"><a href="https://github.com/dwidhanis">  
@@ -16,7 +17,7 @@
 <p align="center">
           
 <a href="https://instagram.com/dwidhanis" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwidhanis" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwidhanis" height="30" width="30" />
 </a>
 
 <a href="https://linkedin.com/dhanis-dwi-prasetyo" target="blank">
