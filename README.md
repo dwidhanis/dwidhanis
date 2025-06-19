@@ -28,7 +28,7 @@ Selamat datang di repositori saya!
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwidhanis" height="30" width="30" />
 </a>
 
-<a href="https://linkedin.com/dhanis-dwi-prasetyo" target="blank">
+<a href="https://www.linkedin.com/in/dhanisprasetyo/" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="dwidhanis" height="40" width="40" />
 </a> 
 
